@@ -1,0 +1,69 @@
+
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;   
+}
+.mcon{
+    margin-left: 300px;
+}
+h5{
+    /* background-color:wheat; */
+    
+}
+.card{
+    padding: 0px;
+    box-shadow: 0 2px 5px #ccc;
+    /* z-index: 3px; */
+    
+}
+body{
+    background-color: #FFFADD;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.btn-submit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:x-large;
+    padding-bottom: 15px;
+}
+.posts-list{
+    display: flex;
+    justify-content: space-around;        
+}
+.bi-nav{
+    margin-right:15px ;
+    margin-left:10px ;
+    margin-bottom:5px;
+}
+.bi-tencent-qq{
+    padding-left: 10px;
+    height: 20px;
+    padding-right: 7px;
+}
+.bi-pen{
+    height: 35px;
+    margin-right: 10px;
+}
+.bi-tencent-qq1{
+    height: 50px;
+}
